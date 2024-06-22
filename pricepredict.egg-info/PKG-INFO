@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: pricepredict
+Version: 0.0.1
+Author: Kishore
+Author-email: anandbhardwaj953@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: flask
